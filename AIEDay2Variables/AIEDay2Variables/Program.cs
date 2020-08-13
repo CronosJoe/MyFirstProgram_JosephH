@@ -22,6 +22,16 @@ namespace AIEDay2Variables
             bool result = booleanOne && booleanTwo;
             result = booleanOne || booleanTwo;
             result = !booleanTwo;
+
+            //ints
+            int valOne = 4;
+            int valTwo = 6;
+
+            int answer = valOne + valTwo;
+            answer += valTwo;
+            answer -= valOne;
+            answer++;
+
             
         }
     }
