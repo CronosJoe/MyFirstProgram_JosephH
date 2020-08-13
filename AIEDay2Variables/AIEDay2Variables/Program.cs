@@ -15,6 +15,14 @@ namespace AIEDay2Variables
             string displayScore = " Your current Score is: " + playerScore + "."; /* note to self, this variable is saved now if playerScore changes after this this will not change */
             Console.WriteLine(displayScore);
 
+
+            //bools
+            bool booleanOne = true;
+            bool booleanTwo = false;
+            bool result = booleanOne && booleanTwo;
+            result = booleanOne || booleanTwo;
+            result = !booleanTwo;
+            
         }
     }
 }
