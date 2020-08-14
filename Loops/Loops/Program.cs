@@ -24,6 +24,10 @@ namespace Loops
             for (int count = 3; count >=1; count-=2)
             {
                 Console.WriteLine($"The variable count now is equal to {count}.");
+                if (count == 2)
+                {
+                    break;
+                }
             }
         }
     }
