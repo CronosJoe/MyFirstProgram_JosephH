@@ -6,7 +6,7 @@ namespace Conditionals
     {
         public static void Main()
         {
-           // ConditionalMonster();
+           ConditionalMonster();
            // Combos();
             Console.ReadKey();
         }
@@ -46,6 +46,10 @@ namespace Conditionals
             else if (playerHealth > 0)
             {
                 Console.WriteLine("The monster prepares to attack you again");
+            }
+            else if(playerHealth == 100)
+            {
+                Console.WriteLine("You appear to have dodged but the monster is preparing to attack again.");
             }
             Console.ReadKey();
         }
