@@ -18,9 +18,13 @@ namespace ArrayExercises
             //Question6.MultiDimensionArray(3, 3);
 
             //question 7, note that I hardcoded in the values for each row through copy and paste, check the question 7 class
-           // Question7.summedRowCol();
+            // Question7.summedRowCol();
 
-            
+            //question 8, uncomment to use
+            //Question8.FiveAttackFight();
+
+            //question 9
+            Question9.DragonTracker();
         }
     }
 }

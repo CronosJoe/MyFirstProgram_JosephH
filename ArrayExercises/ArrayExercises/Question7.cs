@@ -40,7 +40,6 @@ namespace ArrayExercises
 
             int rowSum = 0;
             int colSum = 0;
-            int colCount = 0;
             //goes through the 2d array adding up each row
             for (int i = 0; i < one; i++)
             {
