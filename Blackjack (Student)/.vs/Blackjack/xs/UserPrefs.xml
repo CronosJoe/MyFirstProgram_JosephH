@@ -1,24 +1,22 @@
 ﻿<Properties StartupConfiguration="{CC95B04B-88F7-4DCD-A9D2-6D36DC3D7E17}|Default">
   <MonoDevelop.Ide.ItemProperties.Blackjack PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Blackjack/Card.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blackjack/Program.cs">
     <Files>
-      <File FileName="Blackjack/Card.cs" Line="39" Column="21" />
-      <File FileName="Blackjack/Program.cs" Line="1" Column="1" />
+      <File FileName="Blackjack/Card.cs" Line="39" Column="26" />
+      <File FileName="Blackjack/Program.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Blackjack" expanded="True">
-            <Node name="Blackjack" expanded="True">
-              <Node name="Card.cs" selected="True" />
-            </Node>
+            <Node name="Blackjack" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
