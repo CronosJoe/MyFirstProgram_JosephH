@@ -1,0 +1,7 @@
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Debug/Blackjack.csprojAssemblyReference.cache
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Debug/Blackjack.csproj.CoreCompileInputs.cache
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Debug/Blackjack.exe.config
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Debug/Blackjack.exe
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Debug/Blackjack.pdb
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Debug/Blackjack.exe
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Debug/Blackjack.pdb

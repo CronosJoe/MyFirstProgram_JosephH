@@ -1,0 +1,6 @@
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Release/Blackjack.exe.config
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Release/Blackjack.exe
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/bin/Release/Blackjack.pdb
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Release/Blackjack.csproj.CoreCompileInputs.cache
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Release/Blackjack.exe
+/Users/josephhuskey/Desktop/AIEFiles/HelloWorldAIEFirstClass/MyFirstProgram_Josep/Blackjack (Student)/Blackjack/obj/Release/Blackjack.pdb
