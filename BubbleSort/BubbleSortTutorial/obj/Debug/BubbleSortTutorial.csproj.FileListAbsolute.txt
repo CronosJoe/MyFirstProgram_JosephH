@@ -1,0 +1,6 @@
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/bin/Debug/BubbleSortTutorial.exe
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/bin/Debug/BubbleSortTutorial.pdb
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/obj/Debug/BubbleSortTutorial.csprojAssemblyReference.cache
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/obj/Debug/BubbleSortTutorial.csproj.CoreCompileInputs.cache
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/obj/Debug/BubbleSortTutorial.exe
+/Users/josephhuskey/Projects/BubbleSortTutorial/BubbleSortTutorial/obj/Debug/BubbleSortTutorial.pdb
